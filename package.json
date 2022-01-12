@@ -1,0 +1,25 @@
+{
+  "name": "@evert-arias/tsconfig",
+  "version": "1.0.0",
+  "description": "TypeScript config for my projects",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evert-arias/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "Evert Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evert-arias/tsconfig/issues"
+  },
+  "homepage": "https://github.com/evert-arias/tsconfig#readme"
+}
